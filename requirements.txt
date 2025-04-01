@@ -1,3 +1,4 @@
 dotenv
 asyncio
 chainlit
+chromadb
